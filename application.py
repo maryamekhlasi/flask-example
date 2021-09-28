@@ -1,5 +1,5 @@
 from flask import Flask
-import requests
+import urllib.request
 application = Flask(__name__)
 
 
